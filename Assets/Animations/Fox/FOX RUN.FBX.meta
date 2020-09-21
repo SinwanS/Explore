@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: fb4e1f0bed2a3ab40b3eacb965526be6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm 1
+    100002: Arm 2
+    100004: Bone001(mirrored)
+    100006: Bone001(mirrored)001
+    100008: Bone002(mirrored)
+    100010: Bone002(mirrored)001
+    100012: Bone003(mirrored)
+    100014: Bone003(mirrored)001
+    100016: Bone004(mirrored)
+    100018: Bone004(mirrored)001
+    100020: Bone005
+    100022: Bone007
+    100024: Bone008
+    100026: Bone009
+    100028: Bone010
+    100030: Bone019
+    100032: Bone020
+    100034: Bone021
+    100036: Bone021(mirrored)
+    100038: Bone022
+    100040: Bone022(mirrored)
+    100042: Bone023
+    100044: Bone023(mirrored)
+    100046: connectBone001
+    100048: connectBone006
+    100050: connectBone007
+    100052: connectBone008
+    100054: connectBone009
+    100056: connectBone010
+    100058: Fox Body
+    100060: Fox Mask
+    100062: //RootNode
+    100064: Fox_Arm_L
+    100066: Fox_Arm_R
+    100068: Fox_Head
+    100070: leg 1
+    100072: leg 2
+    100074: Shoulder 1
+    100076: Shoulder 2
+    100078: Wand_Handle
+    100080: Wand_Star
+    400000: Arm 1
+    400002: Arm 2
+    400004: Bone001(mirrored)
+    400006: Bone001(mirrored)001
+    400008: Bone002(mirrored)
+    400010: Bone002(mirrored)001
+    400012: Bone003(mirrored)
+    400014: Bone003(mirrored)001
+    400016: Bone004(mirrored)
+    400018: Bone004(mirrored)001
+    400020: Bone005
+    400022: Bone007
+    400024: Bone008
+    400026: Bone009
+    400028: Bone010
+    400030: Bone019
+    400032: Bone020
+    400034: Bone021
+    400036: Bone021(mirrored)
+    400038: Bone022
+    400040: Bone022(mirrored)
+    400042: Bone023
+    400044: Bone023(mirrored)
+    400046: connectBone001
+    400048: connectBone006
+    400050: connectBone007
+    400052: connectBone008
+    400054: connectBone009
+    400056: connectBone010
+    400058: Fox Body
+    400060: Fox Mask
+    400062: //RootNode
+    400064: Fox_Arm_L
+    400066: Fox_Arm_R
+    400068: Fox_Head
+    400070: leg 1
+    400072: leg 2
+    400074: Shoulder 1
+    400076: Shoulder 2
+    400078: Wand_Handle
+    400080: Wand_Star
+    2100000: Body
+    2100002: Mask
+    2100004: Wand Handle
+    2100006: Star
+    2300000: Wand_Handle
+    2300002: Wand_Star
+    3300000: Wand_Handle
+    3300002: Wand_Star
+    4300000: Fox Body
+    4300002: Fox_Arm_R
+    4300004: Fox_Arm_L
+    4300006: Fox_Head
+    4300008: Fox Mask
+    4300010: Wand_Handle
+    4300012: Wand_Star
+    7400000: fox run
+    9500000: //RootNode
+    13700000: Fox Body
+    13700002: Fox Mask
+    13700004: Fox_Arm_L
+    13700006: Fox_Arm_R
+    13700008: Fox_Head
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fox run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

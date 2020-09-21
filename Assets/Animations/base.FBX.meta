@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 3ae4ba5f8a0170747a925e9d5bdd2dd4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: Bone001
+    100006: Bone001(mirrored)
+    100008: Bone002
+    100010: Bone002(mirrored)
+    100012: Bone003
+    100014: Bone003(mirrored)
+    100016: Bone004
+    100018: Bone005
+    100020: Bone006
+    100022: Bone007
+    100024: Bone008
+    100026: Bone009
+    100028: Bone010
+    100030: Bone010(mirrored)
+    100032: Bone011
+    100034: Bone011(mirrored)
+    100036: Bone012
+    100038: Bone012(mirrored)
+    100040: Bone013
+    100042: connectBone001
+    100044: connectBone002
+    100046: connectBone003
+    100048: connectBone004
+    100050: connectBone005
+    100052: Cylinder004
+    100054: Cylinder005
+    100056: Hair_Bangs
+    100058: Hair_Bangs001
+    100060: Head
+    100062: Hood
+    100064: IK Chain001
+    100066: IK Chain002
+    100068: IK Chain003
+    100070: IK Chain004
+    100072: IK Chain005
+    100074: IK Chain006
+    100076: IK Chain007
+    100078: L_Arm
+    100080: L_Leg
+    100082: R_Arm
+    100084: R_Leg
+    100086: Tiger Sword
+    100088: Tiger_Hilt
+    400000: //RootNode
+    400002: Body
+    400004: Bone001
+    400006: Bone001(mirrored)
+    400008: Bone002
+    400010: Bone002(mirrored)
+    400012: Bone003
+    400014: Bone003(mirrored)
+    400016: Bone004
+    400018: Bone005
+    400020: Bone006
+    400022: Bone007
+    400024: Bone008
+    400026: Bone009
+    400028: Bone010
+    400030: Bone010(mirrored)
+    400032: Bone011
+    400034: Bone011(mirrored)
+    400036: Bone012
+    400038: Bone012(mirrored)
+    400040: Bone013
+    400042: connectBone001
+    400044: connectBone002
+    400046: connectBone003
+    400048: connectBone004
+    400050: connectBone005
+    400052: Cylinder004
+    400054: Cylinder005
+    400056: Hair_Bangs
+    400058: Hair_Bangs001
+    400060: Head
+    400062: Hood
+    400064: IK Chain001
+    400066: IK Chain002
+    400068: IK Chain003
+    400070: IK Chain004
+    400072: IK Chain005
+    400074: IK Chain006
+    400076: IK Chain007
+    400078: L_Arm
+    400080: L_Leg
+    400082: R_Arm
+    400084: R_Leg
+    400086: Tiger Sword
+    400088: Tiger_Hilt
+    2100000: clothes
+    2100002: skin
+    2100004: hair
+    2100006: pants
+    2100008: hilt
+    2100010: sword
+    2300000: Cylinder004
+    2300002: Cylinder005
+    2300004: Tiger Sword
+    2300006: Tiger_Hilt
+    3300000: Cylinder004
+    3300002: Cylinder005
+    3300004: Tiger Sword
+    3300006: Tiger_Hilt
+    4300000: Body
+    4300002: Head
+    4300004: Hair_Bangs
+    4300006: Hair_Bangs001
+    4300008: Hood
+    4300010: R_Leg
+    4300012: R_Arm
+    4300014: L_Arm
+    4300016: L_Leg
+    4300018: Tiger_Hilt
+    4300020: Cylinder004
+    4300022: Cylinder005
+    4300024: Tiger Sword
+    9500000: //RootNode
+    13700000: Body
+    13700002: Hair_Bangs
+    13700004: Hair_Bangs001
+    13700006: Head
+    13700008: Hood
+    13700010: L_Arm
+    13700012: L_Leg
+    13700014: R_Arm
+    13700016: R_Leg
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

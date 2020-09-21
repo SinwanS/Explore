@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 060704a7d9d36b443a7676e286f66824
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bone001
+    100004: Bone001(mirrored)
+    100006: Bone002
+    100008: Bone002(mirrored)
+    100010: Bone003
+    100012: Bone003(mirrored)
+    100014: Bone004
+    100016: Bone005
+    100018: Bone006
+    100020: Bone007
+    100022: Bone008
+    100024: Bone009
+    100026: Bone010
+    100028: Bone010(mirrored)
+    100030: Bone011
+    100032: Bone011(mirrored)
+    100034: Bone012
+    100036: Bone012(mirrored)
+    100038: Bone013
+    100040: connectBone001
+    100042: connectBone002
+    100044: connectBone003
+    100046: connectBone004
+    100048: connectBone005
+    100050: Cylinder004
+    100052: Cylinder005
+    100054: Hair_Bangs
+    100056: Hair_Bangs001
+    100058: Head
+    100060: Hood
+    100062: IK Chain001
+    100064: IK Chain002
+    100066: IK Chain003
+    100068: IK Chain004
+    100070: IK Chain005
+    100072: IK Chain006
+    100074: IK Chain007
+    100076: L_Arm
+    100078: L_Leg
+    100080: //RootNode
+    100082: R_Arm
+    100084: R_Leg
+    100086: Tiger Sword
+    100088: Tiger_Hilt
+    400000: Body
+    400002: Bone001
+    400004: Bone001(mirrored)
+    400006: Bone002
+    400008: Bone002(mirrored)
+    400010: Bone003
+    400012: Bone003(mirrored)
+    400014: Bone004
+    400016: Bone005
+    400018: Bone006
+    400020: Bone007
+    400022: Bone008
+    400024: Bone009
+    400026: Bone010
+    400028: Bone010(mirrored)
+    400030: Bone011
+    400032: Bone011(mirrored)
+    400034: Bone012
+    400036: Bone012(mirrored)
+    400038: Bone013
+    400040: connectBone001
+    400042: connectBone002
+    400044: connectBone003
+    400046: connectBone004
+    400048: connectBone005
+    400050: Cylinder004
+    400052: Cylinder005
+    400054: Hair_Bangs
+    400056: Hair_Bangs001
+    400058: Head
+    400060: Hood
+    400062: IK Chain001
+    400064: IK Chain002
+    400066: IK Chain003
+    400068: IK Chain004
+    400070: IK Chain005
+    400072: IK Chain006
+    400074: IK Chain007
+    400076: L_Arm
+    400078: L_Leg
+    400080: //RootNode
+    400082: R_Arm
+    400084: R_Leg
+    400086: Tiger Sword
+    400088: Tiger_Hilt
+    2100000: clothes
+    2100002: skin
+    2100004: hair
+    2100006: pants
+    2100008: hilt
+    2100010: sword
+    2300000: Cylinder004
+    2300002: Cylinder005
+    2300004: Tiger Sword
+    2300006: Tiger_Hilt
+    3300000: Cylinder004
+    3300002: Cylinder005
+    3300004: Tiger Sword
+    3300006: Tiger_Hilt
+    4300000: Body
+    4300002: Head
+    4300004: Hair_Bangs
+    4300006: Hair_Bangs001
+    4300008: Hood
+    4300010: R_Leg
+    4300012: R_Arm
+    4300014: L_Arm
+    4300016: L_Leg
+    4300018: Tiger_Hilt
+    4300020: Cylinder004
+    4300022: Cylinder005
+    4300024: Tiger Sword
+    7400000: magic
+    9500000: //RootNode
+    13700000: Body
+    13700002: Hair_Bangs
+    13700004: Hair_Bangs001
+    13700006: Head
+    13700008: Hood
+    13700010: L_Arm
+    13700012: L_Leg
+    13700014: R_Arm
+    13700016: R_Leg
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: magic
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
